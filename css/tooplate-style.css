@@ -151,14 +151,18 @@ http://www.tooplate.com/view/2098-health
   .video {
     width: 33%;
     margin: 0 auto;
-    padding: 70px 0;
+    padding: 50px;
     display: flex;
-    float: left;
+    float: none;
     vertical-align: top;
     box-sizing: border-box;
 
   }
 
+  .entrevideos{
+    margin: 0 1px;
+    padding: 10px;
+  }
   .video .author-info {
 
     float: top;
